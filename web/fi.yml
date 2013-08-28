@@ -1,0 +1,19 @@
+# From https://gist.github.com/Darep/6350214
+fi:
+  viewer:
+    comment_on_twitter: 'Kommentoi Twitterissä'
+    older: 'Vanhemmat'
+    newer: 'Uudemmat'
+    feed: 'Syöte'
+    like: 'Tykkää'
+    share: 'Jaa'
+    close: 'Sulje'
+    next_post: 'Seuraava artikkeli'
+    previous_post: 'Edellinen artikkeli'
+    no_posts: 'Ei vielä artikkeleita.'
+    post_not_found:
+      title: 'Ei osumaa'
+      message: 'Avaamasi osoite voi olla väärin tai artikkelia ei enää ole.'
+    blog_not_found:
+      title: 'Ei osumaa'
+      message: 'Avaamasi osoite voi olla väärin tai blogia ei enää ole.'

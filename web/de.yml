@@ -1,0 +1,18 @@
+# From https://gist.github.com/steinerl/6350302
+de:
+  viewer:
+    comment_on_twitter: 'Auf Twitter kommentieren'
+    older: 'Älter'
+    newer: 'Neuer'
+    feed: 'Feed'
+    share: 'Teilen'
+    close: 'Schließen'
+    next_post: 'Nächster Eintrag'
+    previous_post: 'Voriger Eintrag'
+    no_posts: 'Noch keine Einträge.'
+    post_not_found:
+      title: 'Eintrag nicht gefunden.'
+      message: 'Du hast vielleicht die falsche Adresse eingegeben oder der Eintrag wurde entfernt.'
+    blog_not_found:
+      title: 'Blog nicht gefunden'
+      message: 'Du hast vielleicht die falsche URL eingegeben oder dieser Blog existiert nicht mehr.'

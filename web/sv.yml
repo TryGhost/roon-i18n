@@ -1,0 +1,14 @@
+# From https://gist.github.com/mikaeljorhult/6350183
+sv:
+  viewer:
+    comment_on_twitter: 'Kommentera på Twitter'
+    older: 'Äldre'
+    newer: 'Nyare'
+    feed: 'Feed'
+    share: 'Dela'
+    next_post: 'Nästa inlägg'
+    previous_post: 'Föregående inlägg'
+    no_posts: 'Inga inlägg ännu.'
+    post_not_found:
+      title: 'Inlägget kunde inte hittas.'
+      message: 'Du kan ha skrivit in fel adress eller så har inlägget tagits bort.'

@@ -1,0 +1,18 @@
+# From https://gist.github.com/derpoliuk/6350518
+ru:
+  viewer:
+    comment_on_twitter: 'Комментировать на Twitter'
+    older: 'Старее'
+    newer: 'Новее'
+    feed: 'Лента'
+    share: 'Поделиться'
+    close: 'Закрыть'
+    next_post: 'Следующий пост'
+    previous_post: 'Предыдущий пост'
+    no_posts: 'Пока еще нету постов.'
+    post_not_found:
+      title: 'Пост не найден'
+      message: 'Возможно Вы ввели неправильный адрес или пост удален.'
+    blog_not_found:
+      title: 'Блог не найден'
+      message: 'Возможно Вы ввели неправильный URL или блог больше не существует.'

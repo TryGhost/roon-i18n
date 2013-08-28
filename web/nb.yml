@@ -1,0 +1,18 @@
+# From https://gist.github.com/soffes/6350117#comment-895489
+nb:
+  viewer:
+    comment_on_twitter: 'Kommenter på Twitter'
+    older: 'Eldre'
+    newer: 'Nyere'
+    feed: 'Strøm'
+    share: 'Del'
+    close: 'Lukk'
+    next_post: 'Neste innlegg'
+    previous_post: 'Forrige innlegg'
+    no_posts: 'Ingen innlegg ennå.'
+    post_not_found:
+      title: 'Innlegg ikke funnet'
+      message: 'Du kan ha tastet inn feil adresse, eller innlegget har blitt fjernet.'
+    blog_not_found:
+      title: 'Bloggen ble ikke funnet'
+      message: 'Du kan ha tastet inn feil URL, eller denne bloggen eksisterer ikke.'

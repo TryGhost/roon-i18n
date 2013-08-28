@@ -1,0 +1,18 @@
+# From https://gist.github.com/leafduo/6350459
+zh-CN:
+  viewer:
+    comment_on_twitter: '在 Twitter 上回复'
+    older: '旧文章'
+    newer: '新文章'
+    feed: 'Feed'
+    share: '分享'
+    close: '关闭'
+    next_post: '后一篇'
+    previous_post: '前一篇'
+    no_posts: '暂时没有文章。'
+    post_not_found:
+      title: '文章未找到'
+      message: '地址输入错误或者文章已被删除。'
+    blog_not_found:
+      title: '博客未找到'
+      message: '地址输入错误或者博客已不存在。'

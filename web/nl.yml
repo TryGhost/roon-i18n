@@ -1,0 +1,18 @@
+# From https://gist.github.com/jurre/6350400
+nl:
+  viewer:
+    comment_on_twitter: 'Reageer op Twitter'
+    older: 'Ouder'
+    newer: 'Nieuwer'
+    feed: 'Feed'
+    share: 'Deel'
+    close: 'Sluit'
+    next_post: 'Next Post'
+    previous_post: 'Volgende Post'
+    no_posts: 'Nog geen posts.'
+    post_not_found:
+      title: 'Post Niet Gevonden'
+      message: 'Misschien heeft u het verkeerde adres of is de post gewijzigd.'
+    blog_not_found:
+      title: 'Blog Niet Gevonden'
+      message: 'Misschien heeft u de verkeerde URL of is de blog verwijderd.'

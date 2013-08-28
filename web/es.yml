@@ -1,0 +1,15 @@
+# From https://gist.github.com/coch3/6350150
+# Specifically South American Spanish
+es:
+  viewer:
+    comment_on_twitter: 'Comenta en Twitter'
+    older: 'Lo viejo'
+    newer: 'Lo nuevo'
+    feed: 'Feed'
+    share: 'Compartir'
+    next_post: 'Siguiente post'
+    previous_post: 'Post anterior'
+    no_posts: 'Sin posts por el momento.'
+    post_not_found:
+      title: 'No se encontro el post.'
+      message: 'Dirección del post erronea o posible post eliminado.'

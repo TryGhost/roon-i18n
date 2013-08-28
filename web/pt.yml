@@ -1,0 +1,18 @@
+# From https://gist.github.com/soffes/6350117#comment-895510
+pt:
+  viewer:
+    comment_on_twitter: 'Comentar no Twitter'
+    older: 'Anteriores'
+    newer: 'Recentes'
+    feed: 'Feed'
+    share: 'Partilhar'
+    close: 'Fechar'
+    next_post: 'Artigo Seguinte'
+    previous_post: 'Artigo Anterior'
+    no_posts: 'Não existem Artigos.'
+    post_not_found:
+      title: 'Artigo não encontrado'
+      message: 'Poderá ter inscrito o endereço incorrectamente, ou o artigo foi removido.'
+    blog_not_found:
+      title: 'Blog Não Encontrado'
+      message: 'Poderá ter inscrito o endereço incorrectamente, ou este blog já não existe.'

@@ -1,0 +1,18 @@
+# From https://gist.github.com/lukabratos/6351064
+sl: # sl-SI:
+  viewer:
+    comment_on_twitter: 'Komentiraj na Twitterju'
+    older: 'Starejše'
+    newer: 'Novejše'
+    feed: 'Vir'
+    share: 'Deli'
+    close: 'Zapri'
+    next_post: 'Naslednja objava'
+    previous_post: 'Prejšnja objava'
+    no_posts: 'Brez objav'
+    post_not_found:
+      title: 'Objava ni bila najdena'
+      message: 'Vnesen je bil napačen naslov ali pa je bila objava izbrisana.'
+    blog_not_found:
+      title: 'Blog ni bil najden'
+      message: 'Vnesen je bil napačen URL ali pa blog ne obstaja.'

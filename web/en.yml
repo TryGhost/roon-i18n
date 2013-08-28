@@ -1,0 +1,52 @@
+# Roon Viewer
+#
+# This is the locale file for the Roon Viewer. The Viewer is the part of Roon
+# that shows users' blogs. Example: <http://sam.roon.io>
+#
+# Don't translate anything that starts with `#`. That is just a comment for
+# the translator!
+en:
+  viewer:
+    # Button to allow the reader to comment on the current post on Twitter
+    comment_on_twitter: 'Comment on Twitter'
+
+    # Button to view older posts
+    older: 'Older'
+
+    # Button to view newer posts
+    newer: 'Newer'
+
+    # Tooltip for ATOM (similar to RSS) feed button
+    feed: 'Feed'
+
+    # Tooltip for a button to like the current post
+    like: 'Like'
+
+    # Tooltip for a button to share the current post on social networks
+    share: 'Share'
+
+    # Button to close the share screen
+    close: 'Close'
+
+    # Tooltip for a button to see the next post
+    next_post: 'Next Post'
+
+    # Tooltip for a button to see the previous post
+    previous_post: 'Previous Post'
+
+    # Sentence explaining that the author hasn't written any posts yet.
+    no_posts: 'No posts yet.'
+
+    post_not_found:
+      # Title for the error when a post isn't found.
+      title: 'Post Not Found'
+
+      # Sentence for the error when a post isn't found.
+      message: 'You might have typed in the wrong address or the post has been removed.'
+
+    blog_not_found:
+      # Title for the error when a blog isn't found.
+      title: 'Blog Not Found'
+
+      # Sentence for the error when a blog isn't found.
+      message: 'You may have typed in the wrong URL or this blog no longer exists.'

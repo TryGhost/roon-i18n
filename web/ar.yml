@@ -1,0 +1,14 @@
+# From https://gist.github.com/ahmads/6350177
+ar:
+  viewer:
+    comment_on_twitter: 'علق على تويتر'
+    older: 'أقدم'
+    newer: 'أحدث'
+    feed: 'الخلاصة'
+    share: 'شارك'
+    next_post: 'التدوينة التالية'
+    previous_post: 'التدوينة السابقة'
+    no_posts: 'لا يوجد أي تدوينات حاليًا.'
+    post_not_found:
+      title: 'لم يتم إيجاد التدوينة.'
+      message: 'لقد قمت بكتابة عنوان خاطئ أو التدوينة تم حذفها.'

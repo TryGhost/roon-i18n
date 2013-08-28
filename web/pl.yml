@@ -1,0 +1,18 @@
+# From https://gist.github.com/radex/6350423
+pl:
+  viewer:
+    comment_on_twitter: 'Skomentuj na Twitterze'
+    older: 'Starsze'
+    newer: 'Nowsze'
+    feed: 'Kanał'
+    share: 'Udostępnij'
+    close: 'Zamknij'
+    next_post: 'Następny wpis'
+    previous_post: 'Poprzedni wpis'
+    no_posts: 'Brak wpisów.'
+    post_not_found:
+      title: 'Nie znaleziono wpisu.'
+      message: 'Podano nieprawidłowy adres lub wpis został usunięty.'
+    blog_not_found:
+      title: 'Nie znaleziono bloga.'
+      message: 'Podano nieprawidłowy adres lub blog został usunięty.'

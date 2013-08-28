@@ -1,0 +1,19 @@
+# From https://gist.github.com/NeosinneR/6353695
+sk:
+  viewer:
+    comment_on_twitter: 'Komentovať na Twitteri'
+    older: 'Staršie'
+    newer: 'Novšie'
+    feed: 'ATOM'
+    like: 'Páči sa mi'
+    share: 'Zdielať'
+    close: 'Zavrieť'
+    next_post: 'Ďalší príspevok'
+    previous_post: 'Predchádzajúci príspevok'
+    no_posts: 'Žiadne príspevky.'
+    post_not_found:
+      title: 'Príspevok nenájdený'
+      message: 'Zadali ste nesprávnu adresu alebo príspevok bol odstránený.'
+    blog_not_found:
+      title: 'Blog nenájdený'
+      message: 'Zadali ste nesprávnu adresu URL alebo tento blog už neexistuje.'

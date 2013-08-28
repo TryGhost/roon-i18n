@@ -1,0 +1,18 @@
+# From https://gist.github.com/norfred/6350625
+it:
+  viewer:
+    comment_on_twitter: 'Commenta su Twitter'
+    older: 'Meno recente'
+    newer: 'Più recente'
+    feed: 'Feed'
+    share: 'Condividi'
+    close: 'Chiudi'
+    next_post: 'Articolo successivo'
+    previous_post: 'Articolo precedente'
+    no_posts: 'Ancora nessun articolo.'
+    post_not_found:
+      title: 'Articolo non trovato'
+      message: "Potresti aver digitato l'indirizzo sbagliato oppure l'articolo è stato rimosso."
+    blog_not_found:
+      title: 'Blog non trovato'
+      message: "Potresti aver digitato l'URL sbagliato o questo blog non esiste più."

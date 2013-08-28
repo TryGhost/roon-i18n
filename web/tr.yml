@@ -1,0 +1,19 @@
+# From https://gist.github.com/OscarPenn/6355136
+tr:
+  viewer:
+    comment_on_twitter: "Twitter'da yorumla"
+    older: 'Daha eski'
+    newer: 'Daha yeni'
+    feed: 'Beslemeler'
+    like: 'Beğen'
+    share: 'Paylaş'
+    close: 'Kapat'
+    next_post: 'Sonraki yazı'
+    previous_post: 'Önceki yazı'
+    no_posts: 'Henüz bir gönderi yok.'
+    post_not_found:
+      title: 'Yazı bulunamadı!'
+      message: 'Yanlış bir adres yazmış olabilirsiniz ya da adres silinmiş olabilir.'
+    blog_not_found:
+      title: 'Blog bulunamadı'
+      message: 'Yanlış bir URL girmiş olabilirsiniz ya da bu blog yayından kaldırılmıştır.'

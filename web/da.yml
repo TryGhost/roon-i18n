@@ -1,0 +1,18 @@
+# From https://gist.github.com/matiasvad/6351094
+da:
+  viewer:
+    comment_on_twitter: 'Kommentér på Twitter'
+    older: 'Ældre'
+    newer: 'Nyere'
+    feed: 'Feed'
+    share: 'Del'
+    close: 'Luk'
+    next_post: 'Næste Indlæg'
+    previous_post: 'Forrige Indlæg'
+    no_posts: 'Ingen indlæg endnu.'
+    post_not_found:
+      title: 'Indlægget blev ikke fundet'
+      message: 'Du har muligvis tastet den forkerte adresse, eller måske er indlægget blevet fjernet.'
+    blog_not_found:
+      title: 'Bloggen blev ikke fundet'
+      message: 'Du har mulighed tastet den forkerte adresse, eller måske er bloggen blevet fjernet..'

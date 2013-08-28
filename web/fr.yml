@@ -1,0 +1,18 @@
+# From https://gist.github.com/soffes/6350117#comment-895506
+fr:
+  viewer:
+    comment_on_twitter: 'Commenter sur Twitter'
+    older: 'Anciens'
+    newer: 'Récents'
+    feed: 'Flux'
+    share: 'Partager'
+    close: 'Fermer'
+    next_post: 'Article suivant'
+    previous_post: 'Article précédent'
+    no_posts: 'Aucun article.'
+    post_not_found:
+      title: 'Article introuvable'
+      message: "Vous avez dû entrer une mauvaise adresse ou l'article a été supprimé."
+    blog_not_found:
+      title: 'Blog introuvable'
+      message: "Vous avez dû entrer une mauvaise URL ou ce blog n'existe plus."
