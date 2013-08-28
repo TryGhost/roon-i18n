@@ -2,14 +2,20 @@
 # Specifically South American Spanish
 es:
   viewer:
-    comment_on_twitter: 'Comenta en Twitter'
+    comment_on_twitter: 'Coméntalo en Twitter'
     older: 'Lo viejo'
     newer: 'Lo nuevo'
     feed: 'Feed'
+    like: 'Me gusta'
     share: 'Compartir'
+    close: 'Cerrar'
     next_post: 'Siguiente post'
     previous_post: 'Post anterior'
-    no_posts: 'Sin posts por el momento.'
+    no_posts: 'No existen posts por el momento.'
     post_not_found:
-      title: 'No se encontro el post.'
-      message: 'Dirección del post erronea o posible post eliminado.'
+      title: 'No pudimos ubicar el post.'
+      message: 'La dirección del post parece ser incorrecta o el post fue eliminado.'
+    blog_not_found:
+      title: 'No pudimos ubicar el blog.'
+      message: 'La dirección del blog parece ser incorrecta o el blog fue eliminado.'
+    title_by_author: '%{title} por %{author}'
