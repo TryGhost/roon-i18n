@@ -14,4 +14,5 @@ zh-TW:
       message: '網址輸入錯誤，或是文章已被刪除。'
     blog_not_found:
       title: '找不到此部落格'
-      message: '網址輸入錯誤，或是部落格不存在。'
+      message: '網址輸入錯誤，或是部落格已經不存在了。'
+    title_by_author: '%{title} by %{author}'
