@@ -7,12 +7,13 @@ nl:
     feed: 'Feed'
     share: 'Deel'
     close: 'Sluit'
-    next_post: 'Next Post'
-    previous_post: 'Volgende Post'
-    no_posts: 'Nog geen posts.'
+    next_post: 'Volgend Bericht'
+    previous_post: 'Vorige Bericht'
+    no_posts: 'Nog geen berichten.'
     post_not_found:
-      title: 'Post Niet Gevonden'
-      message: 'Misschien heeft u het verkeerde adres of is de post gewijzigd.'
+      title: 'Bericht Niet Gevonden'
+      message: 'Misschien heeft u het verkeerde adres of is het bericht gewijzigd.'
     blog_not_found:
       title: 'Blog Niet Gevonden'
       message: 'Misschien heeft u de verkeerde URL of is de blog verwijderd.'
+    title_by_author: '%{title} door %{author}'
