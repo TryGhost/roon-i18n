@@ -16,3 +16,4 @@ fr:
     blog_not_found:
       title: 'Blog introuvable'
       message: "Vous avez dû entrer une mauvaise URL ou ce blog n'existe plus."
+    title_by_author: '%{title} de %{author}'
