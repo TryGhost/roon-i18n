@@ -1,0 +1,19 @@
+lv:
+  viewer:
+    comment_on_twitter: 'Komentēt ar Twitter'
+    older: 'Vecāki'
+    newer: 'Jaunāki'
+    feed: 'Feed'
+    like: 'Man patīk'
+    share: 'Dalīties'
+    close: 'Aizvērt'
+    next_post: 'Nākamais ieraksts'
+    previous_post: 'Iepriekšējais ieraksts'
+    no_posts: 'Pagaidām ierakstu nav.'
+    post_not_found:
+      title: 'Ieraksts netika atrasts'
+      message: 'Iespējams ievadīji nepareizu adresi vai arī ieraksts ir izdzēsts.'
+    blog_not_found:
+      title: 'Blogs netika atrasts'
+      message: 'Iespējams ievadīji nepareizu adresi vai arī šis blogs vairs neeksistē.'
+    title_by_author: '%{author} %{title}'
