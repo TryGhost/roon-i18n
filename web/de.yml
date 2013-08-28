@@ -5,6 +5,7 @@ de:
     older: 'Älter'
     newer: 'Neuer'
     feed: 'Feed'
+    like: 'Gefällt mir'
     share: 'Teilen'
     close: 'Schließen'
     next_post: 'Nächster Eintrag'
@@ -16,3 +17,4 @@ de:
     blog_not_found:
       title: 'Blog nicht gefunden'
       message: 'Du hast vielleicht die falsche URL eingegeben oder dieser Blog existiert nicht mehr.'
+    title_by_author: '%{title} von %{author}'
