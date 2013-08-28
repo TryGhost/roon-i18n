@@ -36,4 +36,4 @@ Swedish*             | `sv`    | [@mikaeljorhult](https://github.com/mikaeljorhu
 Turkish              | `tr`    | [@oscarpenn](https://github.com/oscarpenn)
 Ukrainian            | `uk`    | [@libdx](https://github.com/libdx)
 
-* Incomplete. Consider helping!
+\* Incomplete. Consider helping!
