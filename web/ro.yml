@@ -1,18 +1,58 @@
-# From https://gist.github.com/soffes/6350117/#comment-895583
-ro:
+# Roon Viewer
+#
+# This is the locale file for the Roon Viewer. The Viewer is the part of Roon
+# that shows users' blogs. Example: <http://sam.roon.io>
+#
+# Don't translate anything that starts with `#`. That is just a comment for
+# the translator!
+en:
   viewer:
+    # Button to allow the reader to comment on the current post on Twitter
     comment_on_twitter: 'Comentează pe Twitter'
+
+    # Button to view older posts
     older: 'Mai vechi'
+
+    # Button to view newer posts
     newer: 'Mai noi'
-    feed: 'Flux Web (Feed)'
+
+    # Tooltip for ATOM (similar to RSS) feed button
+    feed: 'Feed'
+
+    # Tooltip for a button to like the current post
+    like: 'Imi place'
+
+    # Tooltip for a button to share the current post on social networks
     share: 'Distribuie'
+
+    # Button to close the share screen
     close: 'Inchide'
-    next_post: 'Următorul post'
+
+    # Tooltip for a button to see the next post
+    next_post: 'Următorul Post'
+
+    # Tooltip for a button to see the previous post
     previous_post: 'Postul anterior'
+
+    # Sentence explaining that the author hasn't written any posts yet.
     no_posts: 'Incă nu există niciun post.'
+
     post_not_found:
+      # Title for the error when a post isn't found.
       title: 'Postul nu a fost găsit'
+
+      # Sentence for the error when a post isn't found.
       message: 'Ați introdus o adresă greșită, sau acest post a fost șters.'
+
     blog_not_found:
+      # Title for the error when a blog isn't found.
       title: 'Blogul nu a fost găsit'
+
+      # Sentence for the error when a blog isn't found.
       message: 'Ați introdus un URL greșit, sau acest blog nu mai există.'
+
+    # Description for search engines and social networks
+    # `%{title}` is where the post's title will go. Don't change this.
+    # `%{author}` is where the author's name will go. Don't change this.
+    # Simply translate the `by` and change the order of elements if needed.
+    title_by_author: '%{title}, de %{author}'
