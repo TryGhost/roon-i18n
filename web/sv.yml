@@ -5,10 +5,16 @@ sv:
     older: 'Äldre'
     newer: 'Nyare'
     feed: 'Feed'
+    like: 'Gilla'
     share: 'Dela'
+    close: 'Stäng'
     next_post: 'Nästa inlägg'
     previous_post: 'Föregående inlägg'
     no_posts: 'Inga inlägg ännu.'
     post_not_found:
       title: 'Inlägget kunde inte hittas.'
       message: 'Du kan ha skrivit in fel adress eller så har inlägget tagits bort.'
+    blog_not_found:
+      title: 'Bloggen kunde inte hittas.'
+      message: 'Du kan ha skrivit in fel adress eller så existerar inte bloggen längre.'
+    title_by_author: '%{title} av %{author}'
