@@ -12,7 +12,7 @@ da:
     no_posts: 'Ingen indlæg endnu.'
     post_not_found:
       title: 'Indlægget blev ikke fundet'
-      message: 'Du har muligvis tastet den forkerte adresse, eller måske er indlægget blevet fjernet.'
+      message: 'Du har muligvis tastet en forkert adresse, eller måske er indlægget blevet fjernet.'
     blog_not_found:
       title: 'Bloggen blev ikke fundet'
-      message: 'Du har mulighed tastet den forkerte adresse, eller måske er bloggen blevet fjernet..'
+      message: 'Du har muligvis tastet en forkere adresse, eller måske er bloggen blevet fjernet.'
