@@ -10,7 +10,7 @@
 nb:
   viewer:
     # Button to allow the reader to comment on the current post on Twitter
-    comment_on_twitter: 'Kommenter på Twitter'
+    comment_on_twitter: 'Kommentér på Twitter'
 
     # Button to view older posts
     older: 'Eldre'
@@ -22,7 +22,7 @@ nb:
     feed: 'Strøm'
 
     # Tooltip for a button to like the current post
-    like: 'Like'
+    like: 'Lik'
 
     # Tooltip for a button to share the current post on social networks
     share: 'Del'
