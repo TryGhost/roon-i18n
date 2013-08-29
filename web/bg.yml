@@ -1,0 +1,19 @@
+bg:
+  viewer:
+    comment_on_twitter: 'Коментирай в Twitter'
+    older: 'По-стари'
+    newer: 'По-нови'
+    feed: 'Хранилка'
+    like: 'Харесвам'
+    share: 'Сподели'
+    close: 'Затвори'
+    next_post: 'Следваща публикация'
+    previous_post: 'Предишна публикация'
+    no_posts: 'Все още няма публикации.'
+    post_not_found:
+      title: 'Публикацията не е открита'
+      message: 'Може би сте въвели грешен адрес или публикацията е изтрита.'
+    blog_not_found:
+      title: 'Блогът не е открит'
+      message: 'Може би сте въвели грешен адрес или блогът вече не съществува.'
+    title_by_author: '%{title} от %{author}'
