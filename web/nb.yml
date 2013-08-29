@@ -57,4 +57,4 @@ nb:
     # `%{title}` is where the post's title will go. Don't change this.
     # `%{author}` is where the author's name will go. Don't change this.
     # Simply translate the `by` and change the order of elements if needed.
-    title_by_author: '%{title} by %{author}'
+    title_by_author: '%{title} av %{author}'
