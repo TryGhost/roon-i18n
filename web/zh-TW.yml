@@ -1,0 +1,19 @@
+zh-TW:
+  viewer:
+    comment_on_twitter: '在 Twitter 上回覆'
+    older: '舊文章'
+    newer: '新文章'
+    feed: 'Feed'
+    like: '喜歡'
+    share: '分享'
+    close: '關閉'
+    next_post: '下一篇'
+    previous_post: '上一篇'
+    no_posts: '目前沒有文章。'
+    post_not_found:
+      title: '找不到這篇文章'
+      message: '網址輸入錯誤，或是文章已被刪除。'
+    blog_not_found:
+      title: '找不到此部落格'
+      message: '網址輸入錯誤，或是部落格已經不存在了。'
+    title_by_author: '%{title} by %{author}'
