@@ -1,19 +1,20 @@
 de:
   viewer:
-    comment_on_twitter: 'Auf Twitter kommentieren'
+    comment_on_twitter: 'Bei Twitter kommentieren'
     older: 'Älter'
     newer: 'Neuer'
     feed: 'Feed'
     like: 'Gefällt mir'
     share: 'Teilen'
+    like: 'Gefällt mir'
     close: 'Schließen'
     next_post: 'Nächster Eintrag'
-    previous_post: 'Voriger Eintrag'
-    no_posts: 'Noch keine Einträge.'
+    previous_post: 'Vorheriger Eintrag'
+    no_posts: 'Keine Einträge bisher.'
     post_not_found:
-      title: 'Eintrag nicht gefunden.'
-      message: 'Du hast vielleicht die falsche Adresse eingegeben oder der Eintrag wurde entfernt.'
+      title: 'Dieser Eintrag wurde nicht gefunden.'
+      message: 'Du hast vielleicht die falsche Web-Adresse eingegeben oder der Eintrag wurde entfernt.'
     blog_not_found:
-      title: 'Blog nicht gefunden'
-      message: 'Du hast vielleicht die falsche URL eingegeben oder dieser Blog existiert nicht mehr.'
+      title: 'Dieses Blog wurde nicht gefunden.'
+      message: 'Du hast vielleicht die falsche URL eingegeben oder dieses Blog existiert nicht mehr.'
     title_by_author: '%{title} von %{author}'
