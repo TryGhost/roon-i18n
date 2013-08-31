@@ -14,6 +14,7 @@ Language             | Code    | Web
 ---------------------|---------|----
 English              | `en`    | [@soffes](https://github.com/soffes)
 Arabic*              | `ar`    | [@ahmads](https://github.com/ahmads)
+Bulgarian            | `bg`    | [@apaunchev](https://github.com/apaunchev)
 Chinese (China)*     | `zh-CN` | [@leafduo](https://github.com/leafduo)
 Czech*               | `cs`    | [@rojcyk](https://github.com/rojcyk)
 Danish*              | `da`    | [@matiasvad](https://github.com/matiasvad)
