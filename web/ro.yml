@@ -10,13 +10,10 @@ ro:
     next_post: 'Următorul Post'
     previous_post: 'Postul anterior'
     no_posts: 'Incă nu există niciun post.'
-
     post_not_found:
       title: 'Postul nu a fost găsit'
       message: 'Ați introdus o adresă greșită, sau acest post a fost șters.'
-
     blog_not_found:
       title: 'Blogul nu a fost găsit'
       message: 'Ați introdus un URL greșit, sau acest blog nu mai există.'
-
     title_by_author: '%{title}, de %{author}'

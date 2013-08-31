@@ -1,4 +1,3 @@
-# From https://gist.github.com/radex/6350423
 pl:
   viewer:
     comment_on_twitter: 'Skomentuj na Twitterze'
@@ -17,5 +16,4 @@ pl:
     blog_not_found:
       title: 'Nie znaleziono bloga'
       message: 'Podano nieprawidłowy adres lub blog został usunięty.'
-    
     title_by_author: '%{title} — %{author}'

@@ -1,6 +1,4 @@
-# From https://gist.github.com/coch3/6350150
-# Specifically South American Spanish
-es:
+es: # Specifically South American Spanish
   viewer:
     comment_on_twitter: 'Coméntalo en Twitter'
     older: 'Lo viejo'

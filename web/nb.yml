@@ -1,60 +1,19 @@
-# Roon Viewer
-#
-# This is the locale file for the Roon Viewer. The Viewer is the part of Roon
-# that shows users' blogs. Example: <http://sam.roon.io>
-#
-# Don't translate anything that starts with `#`. That is just a comment for
-# the translator!
-
-# From https://gist.github.com/soffes/6350117#comment-895489
 nb:
   viewer:
-    # Button to allow the reader to comment on the current post on Twitter
     comment_on_twitter: 'Kommentér på Twitter'
-
-    # Button to view older posts
     older: 'Eldre'
-
-    # Button to view newer posts
     newer: 'Nyere'
-
-    # Tooltip for ATOM (similar to RSS) feed button
     feed: 'Strøm'
-
-    # Tooltip for a button to like the current post
     like: 'Lik'
-
-    # Tooltip for a button to share the current post on social networks
     share: 'Del'
-
-    # Button to close the share screen
     close: 'Lukk'
-
-    # Tooltip for a button to see the next post
     next_post: 'Neste innlegg'
-
-    # Tooltip for a button to see the previous post
     previous_post: 'Forrige innlegg'
-
-    # Sentence explaining that the author hasn't written any posts yet.
     no_posts: 'Ingen innlegg ennå.'
-
     post_not_found:
-      # Title for the error when a post isn't found.
       title: 'Innlegg ikke funnet'
-
-      # Sentence for the error when a post isn't found.
       message: 'Du kan ha tastet inn feil adresse, eller innlegget har blitt fjernet.'
-
     blog_not_found:
-      # Title for the error when a blog isn't found.
       title: 'Bloggen ble ikke funnet'
-
-      # Sentence for the error when a blog isn't found.
       message: 'Du kan ha tastet inn feil URL, eller denne bloggen eksisterer ikke.'
-
-    # Description for search engines and social networks
-    # `%{title}` is where the post's title will go. Don't change this.
-    # `%{author}` is where the author's name will go. Don't change this.
-    # Simply translate the `by` and change the order of elements if needed.
     title_by_author: '%{title} av %{author}'
