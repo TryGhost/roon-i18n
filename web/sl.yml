@@ -5,6 +5,7 @@ sl: # sl-SI:
     older: 'Starejše'
     newer: 'Novejše'
     feed: 'Vir'
+    like: 'Všeč mi je'
     share: 'Deli'
     close: 'Zapri'
     next_post: 'Naslednja objava'
@@ -16,3 +17,4 @@ sl: # sl-SI:
     blog_not_found:
       title: 'Blog ni bil najden'
       message: 'Vnesen je bil napačen URL ali pa blog ne obstaja.'
+    title_by_author: '%{author} objavil-a %{title}'
