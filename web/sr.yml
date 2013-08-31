@@ -1,0 +1,19 @@
+sr:
+  viewer:
+    comment_on_twitter: 'Коментариши на Твитеру'
+    older: 'Старије'
+    newer: 'Новије'
+    feed: 'Извод вести'
+    like: 'Означи као омиљено'
+    share: 'Подели'
+    close: 'Затвори'
+    next_post: 'Следећи пост'
+    previous_post: 'Претходни пост'
+    no_posts: 'Нема постова.'
+    post_not_found:
+      title: 'Пост није пронађен'
+      message: 'Можда сте укуцали погрешну адресу или је пост уклоњен.'
+    blog_not_found:
+      title: 'Блог није пронађен'
+      message: 'Можда сте укуцали погрешни URL или овај блог не постоји више.'
+    title_by_author: '%{title} од %{author}'
