@@ -16,3 +16,4 @@ uk:
     blog_not_found:
       title: 'Блог не знайдено'
       message: 'Можливо Ви написали неправильну адресу, чи цей блог більше не існує.'
+    title_by_author: '«%{title}» — %{author}'

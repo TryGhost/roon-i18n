@@ -16,4 +16,4 @@ ro:
     blog_not_found:
       title: 'Blogul nu a fost găsit'
       message: 'Ați introdus un URL greșit, sau acest blog nu mai există.'
-    title_by_author: '%{title}, de %{author}'
+    title_by_author: '«%{title}», de %{author}'

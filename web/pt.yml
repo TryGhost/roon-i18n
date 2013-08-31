@@ -15,3 +15,4 @@ pt:
     blog_not_found:
       title: 'Blog Não Encontrado'
       message: 'Poderá ter inscrito o endereço incorrectamente, ou este blog já não existe.'
+    title_by_author: '“%{title}” — %{author}'

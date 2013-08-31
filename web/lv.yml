@@ -16,4 +16,4 @@ lv:
     blog_not_found:
       title: 'Blogs netika atrasts'
       message: 'Iespējams ievadīji nepareizu adresi vai arī šis blogs vairs neeksistē.'
-    title_by_author: '%{author} %{title}'
+    title_by_author: '%{author} — %{title}'

@@ -16,4 +16,4 @@ sv:
     blog_not_found:
       title: 'Bloggen kunde inte hittas.'
       message: 'Du kan ha skrivit in fel adress eller så existerar inte bloggen längre.'
-    title_by_author: '%{title} av %{author}'
+    title_by_author: '”%{title}” av %{author}'

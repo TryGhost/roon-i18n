@@ -16,3 +16,4 @@ sk:
     blog_not_found:
       title: 'Blog nenájdený'
       message: 'Zadali ste nesprávnu adresu URL alebo tento blog už neexistuje.'
+    title_by_author: '“%{title}” — %{author}'

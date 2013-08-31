@@ -15,3 +15,4 @@ da:
     blog_not_found:
       title: 'Bloggen blev ikke fundet'
       message: 'Du har muligvis tastet en forkere adresse, eller måske er bloggen blevet fjernet.'
+    title_by_author: '“%{title}” — %{author}'

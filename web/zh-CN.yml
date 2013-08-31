@@ -16,4 +16,4 @@ zh-CN:
     blog_not_found:
       title: '博客未找到'
       message: '地址输入错误或者博客已不存在。'
-    title_by_author: '%{title} by %{author}'
+    title_by_author: '“%{title}” — %{author}'

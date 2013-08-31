@@ -16,4 +16,4 @@ pl:
     blog_not_found:
       title: 'Nie znaleziono bloga'
       message: 'Podano nieprawidłowy adres lub blog został usunięty.'
-    title_by_author: '%{title} — %{author}'
+    title_by_author: '„%{title}” — %{author}'

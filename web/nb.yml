@@ -16,4 +16,4 @@ nb:
     blog_not_found:
       title: 'Bloggen ble ikke funnet'
       message: 'Du kan ha tastet inn feil URL, eller denne bloggen eksisterer ikke.'
-    title_by_author: '%{title} av %{author}'
+    title_by_author: '«%{title}» av %{author}'

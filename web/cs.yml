@@ -11,3 +11,4 @@ cs:
     post_not_found:
       title: 'Příspěvek nenalezen.'
       message: 'Možná jste napsali špatnou adresu a nebo byl příspěvek odstraněn.'
+    title_by_author: '„%{title}“ — %{author}'

@@ -16,3 +16,4 @@ tr:
     blog_not_found:
       title: 'Blog bulunamadı'
       message: 'Yanlış bir URL girmiş olabilirsiniz ya da bu blog yayından kaldırılmıştır.'
+    title_by_author: '“%{title}” — %{author}'

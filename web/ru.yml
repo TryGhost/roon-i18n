@@ -15,3 +15,5 @@ ru:
     blog_not_found:
       title: 'Блог не найден'
       message: 'Возможно Вы ввели неправильный URL или блог больше не существует.'
+    title_by_author: '«%{title}» — %{author}'
+

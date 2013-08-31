@@ -16,4 +16,4 @@ es: # Specifically South American Spanish
     blog_not_found:
       title: 'No pudimos ubicar el blog.'
       message: 'La dirección del blog parece ser incorrecta o el blog fue eliminado.'
-    title_by_author: '%{title} por %{author}'
+    title_by_author: '“%{title}” por %{author}'

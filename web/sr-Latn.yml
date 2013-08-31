@@ -16,4 +16,4 @@ sr-Latn:
     blog_not_found:
       title: 'Blog nije pronađen'
       message: 'Možda ste ukucali pogrešni URL ili ovaj blog ne postoji više.'
-    title_by_author: '%{title} od %{author}'
+    title_by_author: '“%{title}” od %{author}'

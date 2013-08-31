@@ -16,4 +16,4 @@ el: # el-GR:
     blog_not_found:
       title: 'Το ιστολόγιο δε βρέθηκε'
       message: 'Υπάρχει περίπτωση να πληκτρολογήσατε λανθασμένη διεύθυνση ή το συγκεκριμένο ιστολόγιο να μην υπάρχει πλέον.'
-    title_by_author: '%{title} από %{author}'
+    title_by_author: '“%{title}” από %{author}'

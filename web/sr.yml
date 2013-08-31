@@ -16,4 +16,4 @@ sr:
     blog_not_found:
       title: 'Блог није пронађен'
       message: 'Можда сте укуцали погрешни URL или овај блог не постоји више.'
-    title_by_author: '%{title} од %{author}'
+    title_by_author: '«%{title}» од %{author}'
