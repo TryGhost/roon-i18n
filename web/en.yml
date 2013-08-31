@@ -4,8 +4,12 @@
 # that shows users' blogs. Example: <http://sam.roon.io>
 #
 # Don't translate anything that starts with `#`. That is just a comment for
-# the translator!
+# the translator! Please don't include them in your version.
+
+# Language code. Be sure this matches your file name (without the extension).
 en:
+
+  # These are all for users' blogs.
   viewer:
     # Button to allow the reader to comment on the current post on Twitter
     comment_on_twitter: 'Comment on Twitter'
@@ -55,4 +59,7 @@ en:
     # `%{title}` is where the post's title will go. Don't change this.
     # `%{author}` is where the author's name will go. Don't change this.
     # Simply translate the `by` and change the order of elements if needed.
-    title_by_author: '%{title} by %{author}'
+    title_by_author: '“%{title}” by %{author}'
+
+    # Shown in place of the date for unpublished posts
+    dont_share: 'Don’t share this link'
