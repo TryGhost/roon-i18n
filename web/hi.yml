@@ -1,0 +1,24 @@
+hi: # Hindi, India
+  viewer:
+    comment_on_twitter: 'ट्विटर पर कॉमेंट'
+    older: 'पुराने'
+    newer: 'नये'
+    feed: 'फीड'
+    like: 'लाइक'
+    share: 'शेर'
+    close: 'बंद'
+    next_post: 'अगला पोस्ट'
+    previous_post: 'पिछला पोस्ट'
+    no_posts: 'कोई पोस्ट नहीं'
+
+    post_not_found:
+      title: 'पोस्ट नहीं मिला'
+      message: 'आप गलत पते में टाइप किया गया हो सकता है, या पोस्ट हटा दिया गया है.'
+
+    blog_not_found:
+      title: 'ब्लॉग नहीं मिला'
+      message: 'आप गलत पते में टाइप किया गया हो सकता है, या ब्लॉग हटा दिया गया है.'
+
+    title_by_author: '“%{title}” by %{author}'
+
+    dont_share: 'इस लिंक शेयर न करें'
