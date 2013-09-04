@@ -22,3 +22,4 @@ hi: # Hindi, India
     title_by_author: '“%{title}” by %{author}'
 
     dont_share: 'इस लिंक शेयर न करें'
+    
