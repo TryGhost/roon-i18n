@@ -16,3 +16,4 @@ pt:
       title: 'Blog Não Encontrado'
       message: 'Poderá ter inscrito o endereço incorrectamente, ou este blog já não existe.'
     title_by_author: '“%{title}” — %{author}'
+    dont_share: 'Não partilhe este link'
