@@ -17,3 +17,4 @@ sl: # sl-SI:
       title: 'Blog ni bil najden'
       message: 'Vnesen je bil napačen URL ali pa blog ne obstaja.'
     title_by_author: '%{author} objavil-a “%{title}”'
+    dont_share: 'Ne deli te povezave'
