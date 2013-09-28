@@ -32,7 +32,7 @@ Portuguese (Brazil)* | `pt-BR` | [@brunodelgado](https://github.com/brunodelgado
 Romanian*            | `ro`    | [@rolandleth](https://github.com/rolandleth)
 Russian*             | `ru`    | [@derpoliuk](https://github.com/derpoliuk)
 Slovak*              | `sk`    | [@neosinner](https://github.com/neosinner)
-Slovenian*           | `sl`    | [@lukabratos](https://github.com/lukabratos)
+Slovenian            | `sl`    | [@lukabratos](https://github.com/lukabratos)
 Swedish              | `sv`    | [@mikaeljorhult](https://github.com/mikaeljorhult), [@olyckne](https://github.com/olyckne)
 Turkish*             | `tr`    | [@oscarpenn](https://github.com/oscarpenn)
 Ukrainian*           | `uk`    | [@libdx](https://github.com/libdx)
