@@ -18,3 +18,4 @@ de:
       title: 'Dieses Blog wurde nicht gefunden.'
       message: 'Du hast vielleicht die falsche URL eingegeben oder dieses Blog existiert nicht mehr.'
     title_by_author: '„%{title}“ von %{author}'
+    dont_share: 'Teile nicht diesen Link'
