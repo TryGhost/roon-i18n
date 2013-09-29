@@ -17,3 +17,4 @@ nl:
       title: 'Blog Niet Gevonden'
       message: 'Misschien heeft u de verkeerde URL of is de blog verwijderd.'
     title_by_author: '‘%{title}’ door %{author}'
+    dont_share: 'Heb deze link niet delen'
