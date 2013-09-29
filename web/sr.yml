@@ -16,5 +16,5 @@ sr:
     blog_not_found:
       title: 'Блог није пронађен'
       message: 'Можда сте укуцали погрешни URL или овај блог више не постоји.'
-    title_by_author: '„%{title}“ од %{author}'
+    title_by_author: '„%{title}“ — %{author}'
     dont_share: 'Не делите овај линк'
