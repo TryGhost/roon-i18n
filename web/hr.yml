@@ -1,0 +1,20 @@
+hr:
+  viewer:
+    comment_on_twitter: 'Komentiraj na Tviteru'
+    older: 'Starije'
+    newer: 'Novije'
+    feed: 'Izvod vijesti'
+    like: 'Označi kao omiljeno'
+    share: 'Podijeli'
+    close: 'Zatvori'
+    next_post: 'Sljedeći post'
+    previous_post: 'Prethodni post'
+    no_posts: 'Nema postova.'
+    post_not_found:
+      title: 'Post nije pronađen'
+      message: 'Možda ste ukucali pogrešnu adresu ili je post uklonjen.'
+    blog_not_found:
+      title: 'Blog nije pronađen'
+      message: 'Možda ste ukucali pogrešni URL ili ovaj blog više ne postoji.'
+    title_by_author: '„%{title}“ od %{author}'
+    dont_share: 'Ne dijelite ovaj link'
