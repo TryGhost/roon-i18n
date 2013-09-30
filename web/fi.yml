@@ -16,5 +16,5 @@ fi:
     blog_not_found:
       title: 'Ei osumaa'
       message: 'Avaamasi osoite voi olla väärin tai blogia ei enää ole.'
-    title_by_author: '%{title}, kirjoittanut %{author}'
+    title_by_author: '“%{title}” kirjoittanut %{author}'
     dont_share: 'Älä jaa tätä linkkiä'
