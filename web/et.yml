@@ -1,0 +1,20 @@
+et:
+  viewer:
+    comment_on_twitter: 'Kommenteeri Twitteris'
+    older: 'Vanem'
+    newer: 'Uuem'
+    feed: 'Voog'
+    like: 'Meeldib'
+    share: 'Jaga'
+    close: 'Sulge'
+    next_post: 'Järgmine sissekanne'
+    previous_post: 'Eelmine sissekanne'
+    no_posts: 'Ei ole veel sissekandeid.'
+    post_not_found:
+      title: 'Sissekannet ei leitud'
+      message: 'Sisestasite vale aadressi, või on see sissekanne kustutatud.'
+    blog_not_found:
+      title: 'Blogi ei leitud'
+      message: 'Sisestasite vale aadressi, või on see blogi kustutatud.'
+    title_by_author: '“%{title}”, %{author}'
+    dont_share: 'Ära seda viidet jaga'
