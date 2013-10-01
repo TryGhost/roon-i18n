@@ -1,0 +1,65 @@
+# Roon Viewer
+#
+# This is the locale file for the Roon Viewer. The Viewer is the part of Roon
+# that shows users' blogs. Example: <http://sam.roon.io>
+#
+# Don't translate anything that starts with `#`. That is just a comment for
+# the translator! Please don't include them in your version.
+
+# Language code. Be sure this matches your file name (without the extension).
+et:
+
+  # These are all for users' blogs.
+  viewer:
+    # Button to allow the reader to comment on the current post on Twitter
+    comment_on_twitter: 'Kommenteeri Twitteris'
+
+    # Button to view older posts
+    older: 'Vanem'
+
+    # Button to view newer posts
+    newer: 'Uuem'
+
+    # Tooltip for ATOM (similar to RSS) feed button
+    feed: 'Voog'
+
+    # Tooltip for a button to like the current post
+    like: 'Meeldib'
+
+    # Tooltip for a button to share the current post on social networks
+    share: 'Jaga'
+
+    # Button to close the share screen
+    close: 'Sulge'
+
+    # Tooltip for a button to see the next post
+    next_post: 'Järgmine sissekanne'
+
+    # Tooltip for a button to see the previous post
+    previous_post: 'Eelmine sissekanne'
+
+    # Sentence explaining that the author hasn't written any posts yet.
+    no_posts: 'Ei ole veel sissekandeid.'
+
+    post_not_found:
+      # Title for the error when a post isn't found.
+      title: 'Sissekannet ei leitud'
+
+      # Sentence for the error when a post isn't found.
+      message: 'Sisestasite vale aadressi, või on see sissekanne kustutatud.'
+
+    blog_not_found:
+      # Title for the error when a blog isn't found.
+      title: 'Blogi ei leitud'
+
+      # Sentence for the error when a blog isn't found.
+      message: 'Sisestasite vale aadressi, või on see blogi kustutatud.'
+
+    # Description for search engines and social networks
+    # `%{title}` is where the post's title will go. Don't change this.
+    # `%{author}` is where the author's name will go. Don't change this.
+    # Simply translate the `by` and change the order of elements if needed.
+    title_by_author: '“%{title}”, %{author}'
+
+    # Shown in place of the date for unpublished posts
+    dont_share: 'Ära seda viidet jaga'
