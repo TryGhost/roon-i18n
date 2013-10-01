@@ -23,7 +23,7 @@ Danish*              | `da`      | [@matiasvad](https://github.com/matiasvad), [
 German               | `de`      | [@steinerl](https://github.com/steinerl), [@floriankrueger](https://github.com/floriankrueger), [@benjaminfritz](https://github.com/benjaminfritz)
 Greek*               | `el`      | [@ozzotto](https://github.com/ozzotto)
 Spanish*             | `es`      | [@coch3](https://github.com/coch3)
-Finnish*             | `fi`      | [@darep](https://github.com/darep)
+Finnish              | `fi`      | [@darep](https://github.com/darep)
 French*              | `fr`      | [@nicol3a](https://github.com/nicol3a), [@stevenschobert](https://github.com/stevenschobert)
 Hindi                | `hi`      | [@sasikiran](https://github.com/sasikiran)
 Italian*             | `it`      | [@norfred](https://github.com/norfred)
