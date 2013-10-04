@@ -18,3 +18,5 @@ sr-Latn:
       message: 'Možda ste ukucali pogrešni URL ili ovaj blog više ne postoji.'
     title_by_author: '„%{title}“ — %{author}'
     dont_share: 'Ne delite ovaj link'
+    read_time: '%{minutes} minuta čitanja'
+    preview_expired: 'Ovaj pregled je istekao.'

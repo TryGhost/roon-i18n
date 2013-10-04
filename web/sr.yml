@@ -18,3 +18,5 @@ sr:
       message: 'Можда сте укуцали погрешни URL или овај блог више не постоји.'
     title_by_author: '„%{title}“ — %{author}'
     dont_share: 'Не делите овај линк'
+    read_time: '%{minutes} минута читања'
+    preview_expired: 'Овај преглед је истекао.'
