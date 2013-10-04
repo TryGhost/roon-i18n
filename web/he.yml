@@ -1,6 +1,6 @@
 he: 
   viewer:
-    comment_on_twitter: 'Twitterלהגיב ב-'
+    comment_on_twitter: 'Twitter-להגיב ב'
     older: 'ישן'
     newer: 'חדש'
     feed: 'רשימת ההזנות'
@@ -9,13 +9,13 @@ he:
     close: 'סגור'
     next_post: 'הפוסט הבא'
     previous_post: 'הפוסט הקודם'
-    no_posts: 'אין עדיין פוסט.'
+    no_posts: 'אין עדיין פוסט'
     post_not_found:
-      title: 'פוסט לא נמצא.'
-      message: 'כתובת הפוסט שגויה או פוסט זה נמחק.'
+      title: 'פוסט לא נמצא'
+      message: 'כתובת הפוסט שגויה או פוסט זה נמחק'
     blog_not_found:
       title: 'בלוג לא נמצא'
-      message: 'כתובת הבלוג שגויה או בלוג זה נמחק.'
+      message: 'כתובת הבלוג שגויה או בלוג זה נמחק'
     title_by_author: '“%{title}” - %{author}'
     dont_share: 'לא לשתף קישור זה'
     read_time: '%{minutes} זמן קריאה'
