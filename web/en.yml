@@ -67,7 +67,7 @@ en:
     # Estimated read time.
     # Please let me know I need to make more keys for different quantities of minutes.
     # `%{minutes}` is where the number of minutes will go. Don't change this.
-    read_time: '%{minutes} minute read time'
+    read_time: '%{minutes} minute read'
 
     # Shown when a preview is expired instead of the not found message.
     preview_expired: 'This preview has expired.'
