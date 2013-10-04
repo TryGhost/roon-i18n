@@ -43,5 +43,6 @@ Slovenian*           | `sl`      | [@lukabratos](https://github.com/lukabratos)
 Swedish*             | `sv`      | [@mikaeljorhult](https://github.com/mikaeljorhult), [@olyckne](https://github.com/olyckne)
 Turkish*             | `tr`      | [@oscarpenn](https://github.com/oscarpenn)
 Ukrainian*           | `uk`      | [@libdx](https://github.com/libdx)
+Hebrew*              | `he`      | [@yaakov_g](https://github.com/yasha0x80)
 
 \* Incomplete. Consider helping!
