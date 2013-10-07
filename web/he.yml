@@ -18,5 +18,5 @@ he:
       message: 'כתובת הבלוג שגויה או בלוג זה נמחק'
     title_by_author: '“%{title}” - %{author}'
     dont_share: 'לא לשתף קישור זה'
-    read_time: '%{minutes} זמן קריאה'
+    read_time: '%{minutes} דקות קריאה'
     preview_expired: 'תצוגה מקדימה פגה'
