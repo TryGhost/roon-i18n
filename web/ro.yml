@@ -21,3 +21,4 @@ en:
 
     title_by_author: '%{title}, de %{author}'
     dont_share: 'Nu distribui'
+    preview_expired: 'Această previzualizare a expirat.'
