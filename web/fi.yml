@@ -18,5 +18,5 @@ fi:
       message: 'Avaamasi osoite voi olla väärin tai blogia ei enää ole.'
     title_by_author: '“%{title}” kirjoittanut %{author}'
     dont_share: 'Älä jaa tätä linkkiä'
-    read_time: '%{minutes} minuutin lukuaika'
+    read_time: 'Lukuaika %{minutes} min'
     preview_expired: 'Esikatselu on päättynyt.'
