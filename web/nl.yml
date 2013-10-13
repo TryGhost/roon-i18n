@@ -18,3 +18,5 @@ nl:
       message: 'Misschien heeft u de verkeerde URL of is de blog verwijderd.'
     title_by_author: '‘%{title}’ door %{author}'
     dont_share: 'Heb deze link niet delen'
+    read_time: '%{minutes} minuten lezen'
+    preview_expired: 'Dit voorbeeld is verlopen.'
