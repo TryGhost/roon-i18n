@@ -18,3 +18,5 @@ sl: # sl-SI:
       message: 'Vnesen je bil napačen URL ali pa blog ne obstaja.'
     title_by_author: '%{author} objavil-a “%{title}”'
     dont_share: 'Ne deli te povezave'
+    read_time: 'Čas branja %{minutes} minut'
+    preview_expired: 'Predogled je potekel.'
