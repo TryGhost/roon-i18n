@@ -18,3 +18,4 @@ ro:
       message: 'Ați introdus un URL greșit, sau acest blog nu mai există.'
     title_by_author: '«%{title}», de %{author}'
     dont_share: 'Nu distribui'
+    preview_expired: 'Această previzualizare a expirat.'
