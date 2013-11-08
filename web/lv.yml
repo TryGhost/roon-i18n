@@ -17,3 +17,6 @@ lv:
       title: 'Blogs netika atrasts'
       message: 'Iespējams ievadīji nepareizu adresi vai arī šis blogs vairs neeksistē.'
     title_by_author: '%{author} — %{title}'
+    dont_share: 'Nedalīties ar šo saiti'
+    read_time: '%{minutes} minūšu lasāmais'
+    preview_expired: 'Šī priekšskatījuma termiņš ir beidzies.'
