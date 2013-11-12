@@ -29,6 +29,7 @@ French*              | `fr`      | [@nicol3a](https://github.com/nicol3a), [@ste
 Hebrew               | `he`      | [@yaakov_g](https://github.com/yasha0x80)
 Hindi*               | `hi`      | [@sasikiran](https://github.com/sasikiran)
 Italian*             | `it`      | [@norfred](https://github.com/norfred)
+Indonesia			 | `id`		 | [@rafeyu](https://github.com/rafeyu)
 Latvian*             | `lv`      | [@ronaldsgailis](https://github.com/ronaldsgailis)
 Norwegian Bokmål*    | `nb`      | [@odd1out](https://github.com/odd1out), [@kimroen](https://github.com/kimroen)
 Dutch                | `nl`      | [@jurre](https://github.com/jurre), [@bramdevries](https://github.com/bramdevries)
