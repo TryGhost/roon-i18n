@@ -1,0 +1,22 @@
+en:
+  viewer:
+    comment_on_twitter: 'Komentar di Twitter'
+    older: 'Terlama'
+    newer: 'Terbaru'
+    feed: 'Feed'
+    like: 'Suka'
+    share: 'Bagikan'
+    close: 'Tutup'
+    next_post: 'Post selanjutnya'
+    previous_post: 'Post sebelumnya'
+    no_posts: 'Belum ada post.'
+    post_not_found:
+      title: 'Post tidak ditemukan'
+      message: 'Anda mungkin telah mengetik alamat yang salah atau post telah dihapus.'
+    blog_not_found:
+      title: 'Blog tidak ditemukan'
+      message: 'Anda mungkin telah mengetik URL yang salah atau blog ini sudah tidak ada.'
+    title_by_author: '“%{title}” oleh %{author}'
+    dont_share: 'Jangan bagikan tautan ini'
+    read_time: 'Dibaca %{minutes} menit'
+    preview_expired: 'Pratinjau sudah kadaluwarsa.'
