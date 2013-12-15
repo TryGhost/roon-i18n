@@ -1,0 +1,22 @@
+fa_IR:
+  viewer:
+    comment_on_twitter: 'در توئیتر نظر دهید'
+    older: 'قدیمی‌تر'
+    newer: 'تازه‌تر'
+    feed: 'خوراک'
+    like: 'پسندیدم'
+    share: 'به اشتراک بگذارید'
+    close: 'بستن'
+    next_post: 'مطلب بعدی'
+    previous_post: 'مطلب قبلی'
+    no_posts: 'هیچ مطلبی برای نمایش وجود ندارد.'
+    post_not_found:
+      title: 'مطلب پیدا نشد'
+      message: 'احتمال دارد آدرس را اشتباه وارد کرده باشید یا این مطلب حذف شده باشد.'
+    blog_not_found:
+      title: 'بلاگ پیدا نشد'
+      message: 'احتمال دارد آدرس را اشتباه وارد کرده باشید یا این بلاگ حذف شده باشد.'
+    title_by_author: '“%{title}” توسط %{author}'
+    dont_share: 'این لینک را به اشتراک نگذارید'
+    read_time: 'خواندن این مطلب %{minutes} دقیقه زمان می‌برد'
+    preview_expired: 'این پیش‌نمایش منقضی شده است.'
