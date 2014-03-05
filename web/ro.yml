@@ -21,4 +21,5 @@ en:
 
     title_by_author: '%{title}, de %{author}'
     dont_share: 'Nu distribui'
+    read_time: 'Timp de citire'
     preview_expired: 'Această previzualizare a expirat.'
