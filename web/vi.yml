@@ -1,0 +1,73 @@
+# Roon Viewer
+#
+# This is the locale file for the Roon Viewer. The Viewer is the part of Roon
+# that shows users' blogs. Example: <http://sam.roon.io>
+#
+# Don't translate anything that starts with `#`. That is just a comment for
+# the translator! Please don't include them in your version.
+
+# Language code. Be sure this matches your file name (without the extension).
+en:
+
+  # These are all for users' blogs.
+  viewer:
+    # Button to allow the reader to comment on the current post on Twitter
+    comment_on_twitter: 'Trả lời trên Twitter'
+
+    # Button to view older posts
+    older: 'Cũ hơn'
+
+    # Button to view newer posts
+    newer: 'Mới hơn'
+
+    # Tooltip for ATOM (similar to RSS) feed button
+    feed: 'Danh sách'
+
+    # Tooltip for a button to like the current post
+    like: 'Thích'
+
+    # Tooltip for a button to share the current post on social networks
+    share: 'Chia sẻ'
+
+    # Button to close the share screen
+    close: 'Đóng'
+
+    # Tooltip for a button to see the next post
+    next_post: 'Tiếp theo'
+
+    # Tooltip for a button to see the previous post
+    previous_post: 'Trở lại'
+
+    # Sentence explaining that the author hasn't written any posts yet.
+    no_posts: 'Chưa có bài viết.'
+
+    post_not_found:
+      # Title for the error when a post isn't found.
+      title: 'Không tìm thấy'
+
+      # Sentence for the error when a post isn't found.
+      message: 'Bạn đã nhập sai đường dẫn hoặc bài đã bị xóa.'
+
+    blog_not_found:
+      # Title for the error when a blog isn't found.
+      title: 'Không tìm thấy Blog'
+
+      # Sentence for the error when a blog isn't found.
+      message: 'Bạn đã nhập sai đường dẫn hoặc blog này không tồn tại.'
+
+    # Description for search engines and social networks
+    # `%{title}` is where the post's title will go. Don't change this.
+    # `%{author}` is where the author's name will go. Don't change this.
+    # Simply translate the `by` and change the order of elements if needed.
+    title_by_author: '“%{title}” bởi %{author}'
+
+    # Shown in place of the date for unpublished posts
+    dont_share: 'Không chia sẻ đường dẫn này'
+
+    # Estimated read time.
+    # Please let me know I need to make more keys for different quantities of minutes.
+    # `%{minutes}` is where the number of minutes will go. Don't change this.
+    read_time: '%{minutes} phút trước'
+
+    # Shown when a preview is expired instead of the not found message.
+    preview_expired: 'Đã hết hạn preview.'
