@@ -46,5 +46,6 @@ Slovenian            | `sl`      | [@lukabratos](https://github.com/lukabratos)
 Swedish*             | `sv`      | [@mikaeljorhult](https://github.com/mikaeljorhult), [@olyckne](https://github.com/olyckne)
 Turkish*             | `tr`      | [@oscarpenn](https://github.com/oscarpenn)
 Ukrainian*           | `uk`      | [@libdx](https://github.com/libdx)
+Vietnamese*           | `vi`      | [@autoclick](https://github.com/autoclick)
 
 \* Incomplete. Consider helping!
